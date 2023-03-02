@@ -1,6 +1,6 @@
 # My take on a redesign for local burger chain
 As of current time of this repository's creation, the current Burger Street website needed a face-lift. My problems with their site:
-- The site is NOT mobile friendly.
+- Their site is NOT mobile friendly.
 - Design feels outdated in my opinion compared to the usual restaurant web page.
 - Their loading time on slow 3g was timely, which could drive away impatient customers.
 - Wanted to start a fun project to see if I could create an improved version in terms of performance, and work on design skill along the side.
